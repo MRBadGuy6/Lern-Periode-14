@@ -12,6 +12,8 @@ Heute habe ich mich wieder mit meiner Applikation auseinandergesetzt. Im Verglei
 
 # 27.2.2026
 
-- [ ] Hangman bugs fixieren
-- [ ] Bewerbungsbrief abschicken
-- [ ] Transaktionen in C# repetieren
+- [x] Hangman bugs fixieren
+- [x] Bewerbungsbrief abschicken
+- [x] Transaktionen in C# repetieren
+
+Heute habe ich weiter an mein Hangman game gearbeitet. Es war schwerer als ich dachte weshalb es viel Zeit gekostet hat zu fixieren. Aber jetzt funktioniert es. Allerdings hat es noch keine Animationen also wen man Falsch ratet wird Stück für Stück ein Hangman gezeichnet. Es kommen erweiterungen zu meiner Applikation. Wen ich amit fertig bin werde ich mich auf meine neue Applikation fokussieren die ich als nächstes gerne erstellen möchte: Taskmanager. Danach habe ich noch wie immer einen Bewerbungsbrief abgeschickt und anschliessend noch geübt für M223 da ich am Dienstag eine Prüfung habe. 
