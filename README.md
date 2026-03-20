@@ -25,3 +25,6 @@ Heute habe ich weiter an mein Hangman game gearbeitet. Es war schwerer als ich d
 - [x] Alter Taskmanager code studieren
 
 Nun, wie immer habe ich einen weiteren Bewerbungsbrief abgeschickt. Anschliessend habe ich meinen Code zum Task-Manager angeschaut. Damals war das eine Projektabgabe für M450. Der Code ist umfangreich und damals durfte ich Hilfsmittel benutzen. Allerdings werde ich versuchen, wie jetzt auch beim letzten Projekt ohne Hilfsmittel, also ohne Co-Pilot, zu benutzen. Zuerst habe ich die UI erstellt, was bis jetzt ohne Probleme läuft. Noch hat es keine Funktionen, aber diese werde ich in den folgenden Wochen einbauen. 
+
+# 20.3.2026
+
