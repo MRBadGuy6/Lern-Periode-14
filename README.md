@@ -37,10 +37,11 @@ Heute war der Tag etwas kürzer, aber dafür war ich umso produktiver. Dieses Ma
 # 27.3.2026
 
 - [x] Bewrbungsbrief abschicken
-- [ ] Aufgaben von M183 Nachholen
-- [ ] Lebenslazf anpassen
+- [x] Aufgaben von M183 Nachholen
+- [x] CV anpassen
 
-Heute ist das letzte Mal vor den Ferien, weil wir nächste Woche am Freitag freihaben. Nun, heute habe ich eine blinde Bewerbung abgeschickt, um weiterhin aktiv zu bleiben bei der Suche nach einem Praktikum. Da die Aufgaben von M183 zeitaufwendig sind, habe ich die meiste Zeit damit verbracht. Anschlissend habe ich noch meinen Lebenslauf angepasst. Kleinichkeiten wie Fonts etc. 
+Heute ist das letzte Mal vor den Ferien, weil wir nächste Woche am Freitag frei haben. Nun, heute habe ich eine blinde Bewerbung abgeschickt, um weiterhin aktiv zu bleiben bei der Suche nach einem Praktikum. Da die Aufgaben von M183 zeitaufwendig sind, habe ich die meiste Zeit damit verbracht. Anschliessend habe ich noch meinen Lebenslauf angepasst. Kleinlichkeiten wie Fonts etc.
+
 # Reflexion
 
 Ich habe genau das gemacht, was ich mir vorgenommen habe: kleine C#-Programme erstellen und Aufgaben nachholen. Ich muss sagen,sagen dass das Programmieren am meisten Spass gemacht hat, aber gleichzeitig ist das auch sehr zeitaufwendig ohne Hilfsmittel. Aber das Endresultat ist grossartig. Drei kleine Programme in einem grossen. Ich muss weiterhin dranbleiben, damit ich mich dann sicherer fühle beim Programmieren, und genau das werde ich für die nächste und letzte Lernperiode planen. 
