@@ -28,3 +28,14 @@ Nun, wie immer habe ich einen weiteren Bewerbungsbrief abgeschickt. Anschliessen
 
 # 20.3.2026
 
+- [x] Bewrbungsbrief abschicken
+- [x] Aufgaben von M183 Nachholen
+- [x] HZ1 M245 Abschliessen
+
+Heute war der Tag etwas kürzer, aber dafür war ich umso produktiver. Dieses Mal haben wir vor Ort gearbeitet, da einige die Aufträge nicht rechtzeitig abgegeben haben. Bei einem Auftrag haben wir keine Punkte bekommen, weshalb ich das dann nochmal gelöst habe. Anschliessend hatte ich das Gespräch mit Ihnen und dann habe ich noch eine Blindbewerbung abgeschickt. Bei M183 bin ich etwas in Verzug gekommen, da die Aufträge etwas aufwendiger sind. 
+
+# 27.3.2026
+
+- [ ] Bewrbungsbrief abschicken
+- [ ] Aufgaben von M183 Nachholen
+- [ ] LA 1707 lösen
