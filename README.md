@@ -39,3 +39,9 @@ Heute war der Tag etwas kürzer, aber dafür war ich umso produktiver. Dieses Ma
 - [ ] Bewrbungsbrief abschicken
 - [ ] Aufgaben von M183 Nachholen
 - [ ] LA 1707 lösen
+
+Heute ist das letzte Mal vor den Ferien, weil wir nächste Woche am Freitag freihaben. Nun, heute habe ich eine blinde Bewerbung abgeschickt, um weiterhin aktiv zu bleiben bei der Suche nach einem Praktikum. Da die Aufgaben von M183 zeitaufwendig sind, habe ich die meiste Zeit damit verbracht. Danach habe ich noch LA 1707 aus M245 gelöst, damit ich nicht auch in diesem Modul in Verzug komme.
+
+# Reflexion
+
+Ich habe genau das gemacht, was ich mir vorgenommen habe: kleine C#-Programme erstellen und Aufgaben nachholen. Ich muss sagen,sagen dass das Programmieren am meisten Spass gemacht hat, aber gleichzeitig ist das auch sehr zeitaufwendig ohne Hilfsmittel. Aber das Endresultat ist grossartig. Drei kleine Programme in einem grossen. Ich muss weiterhin dranbleiben, damit ich mich dann sicherer fühle beim Programmieren, und genau das werde ich für die nächste und letzte Lernperiode planen. 
